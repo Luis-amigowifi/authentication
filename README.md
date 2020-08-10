@@ -1,4 +1,6 @@
 # Jakarta Authentication
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLuis-amigowifi%2Fauthentication.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLuis-amigowifi%2Fauthentication?ref=badge_shield)
+
 
 This repository contains the code for Jakarta Authentication.
 
@@ -25,3 +27,7 @@ Jakarta Authentication defines a general low-level SPI for authentication mechan
         
 Jakarta Authentication consists of several profiles, with each profile telling how a specific container
 (such as Jakarta Servlet) can integrate with- and adapt to this SPI.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLuis-amigowifi%2Fauthentication.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLuis-amigowifi%2Fauthentication?ref=badge_large)
